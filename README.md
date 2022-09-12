@@ -6,10 +6,6 @@
 - Software Engineer at my own company B+ Technology
 
 <a href="https://github.com/waldirborbajr">
-  <img align="center" width="49%" src="./github-metrics.svg" />
-</a>
-
-<a href="https://github.com/waldirborbajr">
   <img align="center" width="49%" src="./header.svg" />
 </a>
 <br/>
