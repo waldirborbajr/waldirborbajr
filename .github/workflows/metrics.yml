@@ -160,7 +160,7 @@ jobs:
       steps:
         - uses: lowlighter/metrics@latest
           with:
-            filename: recent_stared.svg
+            filename: recent_starred.svg
             token: ${{ secrets.METRICS_TOKEN }}
             base: ""
             plugin_stars: yes
