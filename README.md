@@ -39,9 +39,10 @@
 
 ### Languages and Tools:
 
+
 <p>
 <img alt="GO" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" />
-<img alt="Rust" src="https://www.vectorlogo.zone/logos/rust/rustr-icon.svg" />
+<img alt="Rust" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" />
 <img alt="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 <img alt="Redis" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" />
 <img alt="MongoDB" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
