@@ -41,6 +41,7 @@
 
 <p>
 <img alt="GO" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" />
+<img alt="Rust" src="https://www.vectorlogo.zone/logos/rust/rustr-icon.svg" />
 <img alt="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 <img alt="Redis" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" />
 <img alt="MongoDB" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
@@ -48,19 +49,12 @@
 <img alt="MySQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
 <img alt="SQLite" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />
 <img alt="Arduino" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" /> 
-<img alt="Flutter" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
-<img alt="Curl" src="https://www.vectorlogo.zone/logos/curl_haxx/curl_haxx-icon.svg" />
-<img alt="Gnu" src="https://www.vectorlogo.zone/logos/gnu/gnu-icon.svg" />
-<img alt="Bash" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />
 <img alt="Linux" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
 <img alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
-<img alt="Kubernetes" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
 <img alt="NeoVim" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" />
 <img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img alt="GitLab" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" />
 <img alt="Github" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
-<img alt="Telegram" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
-<img alt="BuyMeCoffee" src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-icon.svg" /> 
 </p>
 
  ### Connect with me:
