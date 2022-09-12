@@ -70,3 +70,6 @@
 [<img alt="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />](https://www.linkedin.com/in/wborbajr/)
 [<img alt="Instagram" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" />](https://instagram.com/waldirborbajr)
 [<img alt="Instagram" src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-ar21.svg" />](https://www.buymeacoffee.com/wborbajr)
+
+### Metrics
+[<img alt="Metrics" />](https://github.com/lowlighter/metrics)
