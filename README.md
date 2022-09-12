@@ -33,6 +33,9 @@
 <a href="https://github.com/waldirborbajr">
     <img align="center" width="49%" src="./starred.svg" />
 </a>
+<a href="https://github.com/waldirborbajr">
+    <img align="center" width="49%" src="./recent_starred.svg" />
+</a>
 
 ### Languages and Tools:
 
