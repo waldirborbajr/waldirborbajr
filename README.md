@@ -30,6 +30,9 @@
 <a href="https://github.com/waldirborbajr">
     <img align="center" width="49%" src="./achievements.svg" />
 </a>
+<a href="https://github.com/waldirborbajr">
+    <img align="center" width="49%" src="./starred.svg" />
+</a>
 
 ### Languages and Tools:
 
