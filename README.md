@@ -43,8 +43,8 @@
 
 
 <p>
-<img alt="GO" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" size="20%", heigth="20%"/>
-<img alt="Rust" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" size="20%", heigth="20%"/>
+<img alt="GO" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" size="20", heigth="20"/>
+<img alt="Rust" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" size="20", heigth="20"/>
 <img alt="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" size="20%", heigth="20%"/>
 <img alt="Linux" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" size="20%", heigth="20%"/>
 <img alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" size="20%", heigth="20%"/>
