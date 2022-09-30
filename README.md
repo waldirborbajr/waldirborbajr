@@ -44,20 +44,20 @@
 
 <p>
 <img alt="GO" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" size="20%", heigth="20%"/>
-<img alt="Rust" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" />
-<img alt="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
-<img alt="Linux" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
-<img alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
-<img alt="Redis" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" />
-<img alt="MongoDB" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
-<img alt="PostgreSQL" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
-<img alt="MySQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
-<img alt="SQLite" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />
-<img alt="Arduino" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" /> 
-<img alt="NeoVim" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" />
-<img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img alt="GitLab" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" />
-<img alt="Github" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
+<img alt="Rust" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" size="20%", heigth="20%"/>
+<img alt="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" size="20%", heigth="20%"/>
+<img alt="Linux" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" size="20%", heigth="20%"/>
+<img alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" size="20%", heigth="20%"/>
+<img alt="Redis" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" size="20%", heigth="20%"/>
+<img alt="MongoDB" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" size="20%", heigth="20%"/>
+<img alt="PostgreSQL" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" size="20%", heigth="20%"/>
+<img alt="MySQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" size="20%", heigth="20%"/>
+<img alt="SQLite" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" size="20%", heigth="20%"/>
+<img alt="Arduino" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" size="20%", heigth="20%"/> 
+<img alt="NeoVim" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" size="20%", heigth="20%"/>
+<img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" size="20%", heigth="20%"/>
+<img alt="GitLab" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" size="20%", heigth="20%"/>
+<img alt="Github" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" size="20%", heigth="20%"/>
 </p>
 
  ### Connect with me:
