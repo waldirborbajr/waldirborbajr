@@ -143,17 +143,17 @@ jobs:
           base: repositories
           config_timezone: ${{ secrets.USER_TIMEZONE }}
 
-  starred:
-      runs-on: ubuntu-latest  
-      steps:
-        - uses: lowlighter/metrics@latest
-          with:
-            filename: starred.svg
-            token: ${{ secrets.METRICS_TOKEN }}
-            base: ""
-            plugin_topics: yes
-            plugin_topics_limit: 0
-            plugin_topics_mode: icons
+#  starred:
+#      runs-on: ubuntu-latest  
+#      steps:
+#        - uses: lowlighter/metrics@latest
+#          with:
+#            filename: starred.svg
+#            token: ${{ secrets.METRICS_TOKEN }}
+#            base: ""
+#            plugin_topics: yes
+#            plugin_topics_limit: 0
+#            plugin_topics_mode: icons
 
   recent_starred:
       runs-on: ubuntu-latest  
