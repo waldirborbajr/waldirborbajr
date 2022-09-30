@@ -43,30 +43,23 @@
 
 
 <p>
-<img alt="GO" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" size="20", heigth="20"/>
-<img alt="Rust" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" size="20", heigth="20"/>
-<img alt="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" size="20%", heigth="20%"/>
-<img alt="Linux" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" size="20%", heigth="20%"/>
-<img alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" size="20%", heigth="20%"/>
-<img alt="Redis" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" size="20%", heigth="20%"/>
-<img alt="MongoDB" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" size="20%", heigth="20%"/>
-<img alt="PostgreSQL" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" size="20%", heigth="20%"/>
-<img alt="MySQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" size="20%", heigth="20%"/>
-<img alt="SQLite" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" size="20%", heigth="20%"/>
-<img alt="Arduino" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" size="20%", heigth="20%"/> 
-<img alt="NeoVim" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" size="20%", heigth="20%"/>
-<img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" size="20%", heigth="20%"/>
-<img alt="GitLab" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" size="20%", heigth="20%"/>
-<img alt="Github" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" size="20%", heigth="20%"/>
+<img alt="GO" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" width="40", heigth="40"/>
+<img alt="Rust" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="40", heigth="40"/>
+<img alt="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40", heigth="40"/>
+<img alt="Linux" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40", heigth="40"/>
+<img alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40", heigth="40"/>
+<img alt="Arduino" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" width="40", heigth="40"/> 
+<img alt="NeoVim" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" width="40", heigth="40"/>
+<img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40", heigth="40"/>
 </p>
 
  ### Connect with me:
 
-[<img alt="Gitlab" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" />](https://gitlab.com/wborbajr)
-[<img alt="Github" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" />](https://github.com/wborbajr)
-[<img alt="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />](https://www.linkedin.com/in/wborbajr/)
-[<img alt="Instagram" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" />](https://instagram.com/waldirborbajr)
-[<img alt="Instagram" src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-ar21.svg" />](https://www.buymeacoffee.com/wborbajr)
+[<img alt="Gitlab" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" width="40" height="40"/>](https://gitlab.com/wborbajr)
+[<img alt="Github" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width="40" height="40"/>](https://github.com/wborbajr)
+[<img alt="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" width="40" height="40"/>](https://www.linkedin.com/in/wborbajr/)
+[<img alt="Instagram" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" width="40" height="40"/>](https://instagram.com/waldirborbajr)
+[<img alt="Instagram" src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-ar21.svg" width="40" height="40"/>](https://www.buymeacoffee.com/wborbajr)
 
 ### Metrics
-[<img alt="Metrics" />](https://github.com/lowlighter/metrics)
+[<img alt="Metrics" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png" width="40" height="40"/>](https://github.com/lowlighter/metrics)
