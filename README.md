@@ -39,10 +39,9 @@
     <img align="center" width="49%" src="./recent_starred.svg" />
 </a>
 
-### Languages and Tools:
+### Skills
 
-
-<p>
+<div>
 <img alt="GO" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" width="40", heigth="40"/>
 <img alt="Rust" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="40", heigth="40"/>
 <img alt="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40", heigth="40"/>
@@ -51,7 +50,7 @@
 <img alt="Arduino" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" width="40", heigth="40"/> 
 <img alt="NeoVim" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" width="40", heigth="40"/>
 <img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40", heigth="40"/>
-</p>
+</div>
 
  ### Connect with me:
 
