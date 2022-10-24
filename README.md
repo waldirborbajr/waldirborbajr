@@ -56,3 +56,15 @@
 
 ### Metrics
 [<img alt="Metrics" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png" width="50" height="50"/>](https://github.com/lowlighter/metrics)
+
+---
+
+## 💖 Support the Project
+
+Thank you so much already for using my projects! If you want to go a step further and support my open source work, buy me a coffee:
+
+[<img alt="Buy Me a Coffee" src="https://cdn.ko-fi.com/cdn/kofi1.png?v=3" height="40px"/>](https://ko-fi.com/waldirborbajunior)
+
+[<img alt="Buy Me a Coffee" src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-ar21.svg" width="120" height="80"/>](https://www.buymeacoffee.com/waldirborbajr)
+
+To support the project directly, feel free to open issues for icon suggestions, or contribute with a pull request!
