@@ -43,15 +43,15 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=go,bash,docker,git,gitlab,github,linux,md,postgresql,mongodb,mysql,python,neovim,arduino,rust,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,bash,docker,git,gitlab,github,linux,bsd,md,postgresql,mongodb,mysql,python,neovim,arduino,rust,c)](https://skillicons.dev)
 
  ### Connect with me:
 
-[<img alt="Gitlab" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" width="40" height="40"/>](https://gitlab.com/wborbajr)
-[<img alt="Github" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width="40" height="40"/>](https://github.com/wborbajr)
-[<img alt="LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" width="40" height="40"/>](https://www.linkedin.com/in/wborbajr/)
-[<img alt="Instagram" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" width="40" height="40"/>](https://instagram.com/waldirborbajr)
-[<img alt="Instagram" src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-ar21.svg" width="40" height="40"/>](https://www.buymeacoffee.com/wborbajr)
+[<img alt="Gitlab" src="https://skillicons.dev/icons?i=gitlab"/>](https://gitlab.com/wborbajr)
+[<img alt="Github" src="https://skillicons.dev/icons?i=github"/>](https://github.com/wborbajr)
+[<img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/>](https://www.linkedin.com/in/wborbajr/)
+[<img alt="Instagram" src="https://skillicons.dev/icons?i=instagram"/>](https://instagram.com/waldirborbajr)
+[<img alt="Instagram" src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-ar21.svg" width="80" height="80"/>](https://www.buymeacoffee.com/wborbajr)
 
 ### Metrics
 [<img alt="Metrics" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png" width="40" height="40"/>](https://github.com/lowlighter/metrics)
