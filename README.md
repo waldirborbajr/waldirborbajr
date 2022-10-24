@@ -51,7 +51,7 @@
 [<img alt="Github" src="https://skillicons.dev/icons?i=github"/>](https://github.com/wborbajr)
 [<img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/>](https://www.linkedin.com/in/wborbajr/)
 [<img alt="Instagram" src="https://skillicons.dev/icons?i=instagram"/>](https://instagram.com/waldirborbajr)
-[<img alt="Instagram" src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-ar21.svg" width="80" height="80"/>](https://www.buymeacoffee.com/wborbajr)
+[<img alt="Instagram" src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-ar21.svg" width="120" height="80"/>](https://www.buymeacoffee.com/waldirborbajr)
 
 ### Metrics
 [<img alt="Metrics" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png" width="40" height="40"/>](https://github.com/lowlighter/metrics)
