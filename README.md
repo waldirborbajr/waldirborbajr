@@ -43,16 +43,7 @@
 
 ### Skills
 
-<div>
-<img alt="GO" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" width="40", heigth="40"/>
-<img alt="Rust" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="40", heigth="40"/>
-<img alt="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40", heigth="40"/>
-<img alt="Linux" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40", heigth="40"/>
-<img alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40", heigth="40"/>
-<img alt="Arduino" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" width="40", heigth="40"/> 
-<img alt="NeoVim" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" width="40", heigth="40"/>
-<img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40", heigth="40"/>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=go,bash,docker,git,gitlab,github,linux,md,postgresql,mongodb,mysql,python,neovim,arduino,rust,c)](https://skillicons.dev)
 
  ### Connect with me:
 
