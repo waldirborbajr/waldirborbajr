@@ -3,6 +3,8 @@
 
 [![@waldirborbajr's Holopin board](https://holopin.io/api/user/board?user=waldirborbajr)](https://holopin.io/@waldirborbajr)
 
+---
+
 ### About me:
 
 - Software Engineer at my own company B+ Technology
@@ -41,18 +43,23 @@
 
 ![Snake](https://github.com/waldirborbajr/waldirborbajr/blob/output/github-contribution-grid-snake.gif)
 
+---
+
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=go,bash,docker,git,gitlab,github,githubactions,linux,bsd,md,postgresql,mongodb,mysql,sqlite,py,neovim,arduino,raspberrypi,rust,clatex&perline=10)](https://skillicons.dev)
 
- ### Connect with me:
+---
+
+### Connect with me:
 
 [<img alt="Gitlab" src="https://skillicons.dev/icons?i=gitlab"/>](https://gitlab.com/wborbajr)
 [<img alt="Github" src="https://skillicons.dev/icons?i=github"/>](https://github.com/wborbajr)
 [<img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/>](https://www.linkedin.com/in/wborbajr/)
 [<img alt="Instagram" src="https://skillicons.dev/icons?i=instagram"/>](https://instagram.com/waldirborbajr)
 [<img alt="Twitter" src="https://skillicons.dev/icons?i=twitter"/>](https://twitter.com/waldirborbajr)
-[<img alt="Instagram" src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-ar21.svg" width="120" height="80"/>](https://www.buymeacoffee.com/waldirborbajr)
+
+---
 
 ### Metrics
 [<img alt="Metrics" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png" width="50" height="50"/>](https://github.com/lowlighter/metrics)
