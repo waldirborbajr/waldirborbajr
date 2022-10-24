@@ -43,7 +43,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=go,bash,docker,git,gitlab,github,linux,bsd,md,postgresql,mongodb,mysql,python,neovim,arduino,rust,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,bash,docker,git,gitlab,github,linux,bsd,md,postgresql,mongodb,mysql,python,neovim,arduino,rust,c&perline=10)](https://skillicons.dev)
 
  ### Connect with me:
 
