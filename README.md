@@ -63,8 +63,12 @@
 
 Thank you so much already for using my projects! If you want to go a step further and support my open source work, buy me a coffee:
 
-[<img alt="Buy Me a Coffee" src="https://cdn.ko-fi.com/cdn/kofi1.png?v=3" height="40px"/>](https://ko-fi.com/waldirborbajunior)
-
-[<img alt="Buy Me a Coffee" src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-ar21.svg" width="120" height="80"/>](https://www.buymeacoffee.com/waldirborbajr)
-
-To support the project directly, feel free to open issues for icon suggestions, or contribute with a pull request!
+<div>
+  <a href="https://ko-fi.com/waldirborbajunior">
+    <img align="center" height="49px" src="https://cdn.ko-fi.com/cdn/kofi1.png?v=3" />
+  </a>
+  <a href="https://www.buymeacoffee.com/waldirborbajr">
+    <img align="center" height="49px" src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg" />
+  </a>
+</div>
+To support the project directly, feel free to open issues, or contribute with a pull request!
