@@ -55,4 +55,4 @@
 [<img alt="Instagram" src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-ar21.svg" width="120" height="80"/>](https://www.buymeacoffee.com/waldirborbajr)
 
 ### Metrics
-[<img alt="Metrics" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png" width="60" height="60"/>](https://github.com/lowlighter/metrics)
+[<img alt="Metrics" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png" width="50" height="50"/>](https://github.com/lowlighter/metrics)
