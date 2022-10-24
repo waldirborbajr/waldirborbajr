@@ -43,7 +43,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=go,bash,docker,git,gitlab,github,linux,bsd,md,postgresql,mongodb,mysql,python,neovim,arduino,rust,c&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,bash,docker,git,gitlab,github,githubactions,linux,bsd,md,postgresql,mongodb,mysql,sqlite,py,neovim,arduino,raspberrypi,rust,clatex&perline=10)](https://skillicons.dev)
 
  ### Connect with me:
 
@@ -51,6 +51,7 @@
 [<img alt="Github" src="https://skillicons.dev/icons?i=github"/>](https://github.com/wborbajr)
 [<img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/>](https://www.linkedin.com/in/wborbajr/)
 [<img alt="Instagram" src="https://skillicons.dev/icons?i=instagram"/>](https://instagram.com/waldirborbajr)
+[<img alt="Twitter" src="https://skillicons.dev/icons?i=twitter"/>](https://twitter.com/waldirborbajr)
 [<img alt="Instagram" src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-ar21.svg" width="120" height="80"/>](https://www.buymeacoffee.com/waldirborbajr)
 
 ### Metrics
