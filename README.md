@@ -55,7 +55,7 @@
 
 [<img alt="Gitlab" src="https://skillicons.dev/icons?i=gitlab"/>](https://gitlab.com/wborbajr)
 [<img alt="Github" src="https://skillicons.dev/icons?i=github"/>](https://github.com/wborbajr)
-[<img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/>](https://www.linkedin.com/in/wborbajr/)
+[<img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/>](https://www.linkedin.com/in/waldirborbajr/)
 [<img alt="Instagram" src="https://skillicons.dev/icons?i=instagram"/>](https://instagram.com/waldirborbajr)
 [<img alt="Twitter" src="https://skillicons.dev/icons?i=twitter"/>](https://twitter.com/waldirborbajr)
 
