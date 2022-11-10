@@ -47,7 +47,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=go,bash,docker,git,gitlab,github,githubactions,linux,bsd,md,postgresql,mongodb,mysql,sqlite,py,neovim,arduino,raspberrypi,rust,clatex&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,bash,docker,git,gitlab,github,githubactions,linux,bsd,md,postgresql,mongodb,mysql,sqlite,py,neovim,arduino,raspberrypi,rust,redis,clatex&perline=10)](https://skillicons.dev)
 
 ---
 
