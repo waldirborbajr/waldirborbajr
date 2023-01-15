@@ -1,3 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=waldirborbajr&label=Profile%20views&color=0e75b6&style=flat" alt="waldirborbajr" /> </p>
+
+![typing](https://user-images.githubusercontent.com/40029512/212558846-bc92f10b-0051-4e9a-8cd2-309f5e61e319.gif)
+
 <!-- Your title -->
 ### Hi there, I'm Waldir, I'm Software Backend En·gi·neer ⬘ from Brazil to the World. 👋
 
