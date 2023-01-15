@@ -14,7 +14,7 @@
 
 ### About me:
 
-- Software Engineer at my own company B+ Technology
+- Owner & Software Engineer at my own company B+ Technology focus on GoLang, Rust and Computer Vision & Machine Learning
 
 <a href="https://github.com/waldirborbajr">
   <img align="center" width="49%" src="./header.svg" />
