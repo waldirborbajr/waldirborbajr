@@ -8,7 +8,7 @@
 
 [![@waldirborbajr's Holopin board](https://holopin.io/api/user/board?user=waldirborbajr)](https://holopin.io/@waldirborbajr)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=waldirborbajr)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=waldirborbajr)](https://github.com/waldirborbajr/github-profile-trophy)
 
 ---
 
