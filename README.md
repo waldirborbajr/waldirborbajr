@@ -48,8 +48,6 @@
     <img align="center" width="49%" src="./recent_starred.svg" />
 </a>
 
-![Snake](https://github.com/waldirborbajr/waldirborbajr/blob/output/github-contribution-grid-snake.gif)
-
 ---
 
 ### Skills
