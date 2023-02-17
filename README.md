@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waldirborbajr&label=Profile%20views&color=0e75b6&style=flat" alt="waldirborbajr" /> </p>
 
-![typing](https://user-images.githubusercontent.com/40029512/212558846-bc92f10b-0051-4e9a-8cd2-309f5e61e319.gif)
+<img src="https://user-images.githubusercontent.com/40029512/212558846-bc92f10b-0051-4e9a-8cd2-309f5e61e319.gif" width="600px">
 
 <!-- Your title -->
 
@@ -49,10 +49,13 @@
 </a>
 
 ---
+<details>
+  <summary><b>Skills</b></summary><br>
 
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=go,bash,docker,git,gitlab,github,githubactions,linux,bsd,md,postgresql,mongodb,mysql,sqlite,py,neovim,arduino,raspberrypi,rust,redis,latex&perline=10)](https://skillicons.dev)
+</details>
 
 ---
 
