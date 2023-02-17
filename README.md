@@ -72,7 +72,6 @@
 
 [<img alt="Metrics" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png" width="50" height="50"/>](https://github.com/lowlighter/metrics)
 </details>
----
 
 <details>
   <summary><b>💖 Support the Project</b></summary><br>
