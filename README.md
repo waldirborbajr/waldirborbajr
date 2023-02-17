@@ -52,29 +52,28 @@
 <details>
   <summary><b>Skills</b></summary><br>
 
-### Skills
-
 [![My Skills](https://skillicons.dev/icons?i=go,bash,docker,git,gitlab,github,githubactions,linux,bsd,md,postgresql,mongodb,mysql,sqlite,py,neovim,arduino,raspberrypi,rust,redis,latex&perline=10)](https://skillicons.dev)
 </details>
 
----
-
-### Connect with me:
+<details>
+  <summary><b>Connect with me</b></summary><br>
 
 [<img alt="Gitlab" src="https://skillicons.dev/icons?i=gitlab"/>](https://gitlab.com/waldirborbajr)
 [<img alt="Github" src="https://skillicons.dev/icons?i=github"/>](https://github.com/waldirborbajr)
 [<img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/>](https://www.linkedin.com/in/waldirborbajr/)
 [<img alt="Instagram" src="https://skillicons.dev/icons?i=instagram"/>](https://instagram.com/waldirborbajr)
 [<img alt="Twitter" src="https://skillicons.dev/icons?i=twitter"/>](https://twitter.com/waldirborbajr)
+</details>
+  
+<details>
+  <summary><b>Metrics</b></summary><br>
 
----
-
-### Metrics
 [<img alt="Metrics" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png" width="50" height="50"/>](https://github.com/lowlighter/metrics)
-
+</details>
 ---
 
-## 💖 Support the Project
+<details>
+  <summary><b>💖 Support the Project</b></summary><br>
 
 Thank you so much already for using my projects! If you want to go a step further and support my open source work, buy me a coffee:
 
@@ -87,3 +86,4 @@ Thank you so much already for using my projects! If you want to go a step furthe
   </a>
 </div>
 To support the project directly, feel free to open issues, or contribute with a pull request!
+</details>
