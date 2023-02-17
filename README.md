@@ -1,4 +1,5 @@
 ### Hi there, I'm Waldir, I'm Software Backend En·gi·neer ⬘ from Brazil to the World. 👋
+### Owner & Software Engineer at my own company B+ Technology focus on GoLang, Rust and Computer Vision & Machine Learning.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waldirborbajr&label=Profile%20views&color=0e75b6&style=flat" alt="waldirborbajr" /> </p>
 
@@ -10,11 +11,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=waldirborbajr)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-### About me:
-
-- Owner & Software Engineer at my own company B+ Technology focus on GoLang, Rust and Computer Vision & Machine Learning.
+<details>
+  <summary><b>Github Status</b></summary><br>
 
 <a href="https://github.com/waldirborbajr">
   <img align="center" width="49%" src="./header.svg" />
@@ -47,8 +45,8 @@
 <a href="https://github.com/waldirborbajr">
     <img align="center" width="49%" src="./recent_starred.svg" />
 </a>
-
----
+</details>
+  
 <details>
   <summary><b>Skills</b></summary><br>
 
