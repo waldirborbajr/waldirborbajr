@@ -1,5 +1,10 @@
-### Hi there, I'm Waldir, I'm Software Backend En·gi·neer ⬘ from Brazil to the World. 👋
-### Owner & Software Engineer at my own company B+ Technology focus on GoLang, Rust and Computer Vision & Machine Learning.
+## 👋 Waldir Borba Junior 
+
+Software Backend En·gi·neer ⬘ from Brazil to the World.
+
+Owner & Software Engineer at my own company B+ Technology focus on GoLang, Rust and Computer Vision & Machine Learning.
+
+I love making open-source projects and cool products, sharing with others, and enjoying the feeling of creativity.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waldirborbajr&label=Profile%20views&color=0e75b6&style=flat" alt="waldirborbajr" /> </p>
 
