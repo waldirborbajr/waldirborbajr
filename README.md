@@ -1,6 +1,6 @@
 ## 👋 Waldir Borba Junior 
 
-Software Backend En·gi·neer ⬘ from Brazil to the World and not trying to learn Android Mobile development.
+Software Backend En·gi·neer ⬘ from Brazil to the World and now trying to learn Android Mobile development.
 
 Owner & Software Engineer at my own company B+ Technology focus on GoLang, Rust and Computer Vision & Machine Learning.
 
