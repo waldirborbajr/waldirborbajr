@@ -2,8 +2,6 @@
 
 Software Backend En·gi·neer ⬘ from Brazil to the World and now trying to learn Android Mobile development.
 
-Owner & Software Engineer at my own company B+ Technology.
-
 I love coding, I love GO and now learning Rust.
 
 I love making open-source projects and cool products, sharing with others, and enjoying the feeling of creativity.
