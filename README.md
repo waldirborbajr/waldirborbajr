@@ -1,11 +1,20 @@
-## 👋 Waldir Borba Junior 
+## 👋 Hi, I'm WaldirBorbaJr a.k.a Waldir Borba Junior 
 
-Software Backend En·gi·neer ⬘ from Brazil to the World and now trying to learn Android Mobile development.
+- From :brazil: to the :world_map: .
 
-I love coding, I love GO and now learning Rust.
+- 👀 I’m interested in [Go](https://go.dev/),
+  [Rust](https://www.rust-lang.org/),
+  [Kubernetes](https://kubernetes.io/),
+  [AI/ML](https://en.wikipedia.org/wiki/Artificial_intelligence), and anything computer related.
 
-I love making open-source projects and cool products, sharing with others, and enjoying the feeling of creativity.
+-  :heart: making open-source projects and cool products, sharing with others, and enjoying the feeling of creativity.
 
+- 🌱 I’m currently:
+  - 🌐 doing some analysis on ...
+  - 👨‍💻 honing my [Go](https://go.dev) and
+    [Rust](https://www.rust-lang.org/) skills on
+    [LeetCode](https://leetcode.com/), [Exercism](https://exercism.org/) and [Hackerrank](https://www.hackerrank.com/).
+    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waldirborbajr&label=Profile%20views&color=0e75b6&style=flat" alt="waldirborbajr" /> </p>
 
 <img src="https://user-images.githubusercontent.com/40029512/212558846-bc92f10b-0051-4e9a-8cd2-309f5e61e319.gif" width="600px">
