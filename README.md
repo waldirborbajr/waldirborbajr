@@ -13,7 +13,7 @@
   - 🌐 doing some analysis on ...
   - 👨‍💻 honing my [Go](https://go.dev) and
     [Rust](https://www.rust-lang.org/) skills on
-    [LeetCode](https://leetcode.com/), [Exercism](https://exercism.org/) and [Hackerrank](https://www.hackerrank.com/).
+    [LeetCode](https://leetcode.com/), [Exercism](https://exercism.org/), [CSES](https://cses.fi/) and [Hackerrank](https://www.hackerrank.com/).
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waldirborbajr&label=Profile%20views&color=0e75b6&style=flat" alt="waldirborbajr" /> </p>
 
