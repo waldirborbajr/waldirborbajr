@@ -7,6 +7,8 @@
   [Kubernetes](https://kubernetes.io/),
   [AI/ML](https://en.wikipedia.org/wiki/Artificial_intelligence), and anything computer related.
 
+- 📘I'm currently learning [Rust](https://www.rust-lang.org/)
+
 -  :heart: making open-source projects and cool products, sharing with others, and enjoying the feeling of creativity.
 
 - 🌱 I’m currently:
