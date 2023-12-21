@@ -1,15 +1,15 @@
 ## 👋 Hi, I'm WaldirBorbaJr a.k.a Waldir Borba Junior 
 
-- From :brazil: to the :world_map: .
+- From :brazil: to the :world_map:
 
 - 👀 I’m interested in [Go](https://go.dev/),
   [Rust](https://www.rust-lang.org/),
   [Kubernetes](https://kubernetes.io/),
-  [AI/ML](https://en.wikipedia.org/wiki/Artificial_intelligence), and anything computer related.
+  [AI/ML](https://en.wikipedia.org/wiki/Artificial_intelligence), and anything computer-related.
 
-- 📘I'm currently learning [Rust](https://www.rust-lang.org/)
+- :blue_book: I'm currently learning [Rust](https://www.rust-lang.org/)
 
--  :heart: making open-source projects and cool products, sharing with others, and enjoying the feeling of creativity.
+- :heart: making open-source projects and cool products, sharing with others, and enjoying the feeling of creativity.
 
 - 🌱 I’m currently:
   - 🌐 doing some analysis on ...
