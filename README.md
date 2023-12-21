@@ -1,106 +1,51 @@
-## 👋 Hi, I'm WaldirBorbaJr a.k.a Waldir Borba Junior 
+Hi 👋 My name is Waldir Borba Junior
+====================================
 
-- From :brazil: to the :world_map:
+Backend En·gi·neer
+------------------
 
-- 👀 I’m interested in [Go](https://go.dev/),
-  [Rust](https://www.rust-lang.org/),
-  [Kubernetes](https://kubernetes.io/),
-  [AI/ML](https://en.wikipedia.org/wiki/Artificial_intelligence), and anything computer-related.
+I love open-source, and building cool products. When not programming I geek out on baking bread, photography, and dog lover.
 
-- :blue_book: I'm currently learning [Rust](https://www.rust-lang.org/)
+* 🌍  I'm based in Brazil
+* ✉️  You can contact me at [wborbajr at gmail dot com](mailto:wborbajr at gmail dot com)
+* 🧠  I'm learning Rust
+* 🤝  I'm open to collaborating on GO and Rust projects
 
-- :heart: making open-source projects and cool products, sharing with others, and enjoying the feeling of creativity.
+<a href="https://www.twitch.tv/waldirborbajr" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/waldirborbajr?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=0f172a&label=TWITCH+STATUS" /></a>
 
-- 🌱 I’m currently:
-  - 🌐 doing some analysis on ...
-  - 👨‍💻 honing my [Go](https://go.dev) and
-    [Rust](https://www.rust-lang.org/) skills on
-    [LeetCode](https://leetcode.com/), [Exercism](https://exercism.org/), [CSES](https://cses.fi/) and [Hackerrank](https://www.hackerrank.com/).
-    
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waldirborbajr&label=Profile%20views&color=0e75b6&style=flat" alt="waldirborbajr" /> </p>
+### Skills
 
-<img src="https://user-images.githubusercontent.com/40029512/212558846-bc92f10b-0051-4e9a-8cd2-309f5e61e319.gif" width="600px">
 
-<!-- Your title -->
+<p align="left">
+<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+</p>
 
-<details>
-  <summary><b>Holopin & Trophy</b></summary><br>
+
+### Socials
+
+<p align="left"> <a href="https://www.dev.to/waldirborbajr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/waldirborbajr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/waldirborbajr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/waldirborbajr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/waldirborbajr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/waldirborbajr"><img src="https://github-readme-stats.vercel.app/api?username=waldirborbajr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="waldirborbajr's GitHub stats" /></a>
+
+<a href="http://www.github.com/waldirborbajr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=waldirborbajr&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/waldirborbajr"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/waldirborbajr"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+
+</ul>
+
+### Holopin & Trophy
 
 [![@waldirborbajr's Holopin board](https://holopin.io/api/user/board?user=waldirborbajr)](https://holopin.io/@waldirborbajr)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=waldirborbajr)](https://github.com/ryo-ma/github-profile-trophy)
-</details>
-
-<details>
-  <summary><b>Github Status</b></summary><br>
-
-<a href="https://github.com/waldirborbajr">
-  <img align="center" width="49%" src="./header.svg" />
-</a>
-<br/>
-<a href="https://github.com/waldirborbajr">
-  <img align="center" width="49%" src="./repositories.svg" />
-</a>
-<a href="https://github.com/waldirborbajr">
-  <img align="center" width="49%" src="./acti_comm.svg" />
-</a>
-
-<a href="https://github.com/waldirborbajr">
-  <img align="center" width="49%" src="./iso_calender.svg" />
-</a>
-
-<a href="https://github.com/waldirborbajr">
-    <img align="center" width="49%" src="./issue_pr_lang.svg" />
-</a>
-
-<a href="https://github.com/waldirborbajr">
-  <img align="center" width="49%" src="./github-habits.svg" />
-</a>
-<a href="https://github.com/waldirborbajr">
-    <img align="center" width="49%" src="./achievements.svg" />
-</a>
-<a href="https://github.com/waldirborbajr">
-    <img align="center" width="49%" src="./starred.svg" />
-</a>
-<a href="https://github.com/waldirborbajr">
-    <img align="center" width="49%" src="./recent_starred.svg" />
-</a>
-</details>
-  
-<details>
-  <summary><b>Skills</b></summary><br>
-
-[![My Skills](https://skillicons.dev/icons?i=go,bash,docker,git,gitlab,github,githubactions,linux,bsd,md,postgresql,mongodb,mysql,sqlite,py,neovim,arduino,raspberrypi,rust,redis,latex&perline=10)](https://skillicons.dev)
-</details>
-
-<details>
-  <summary><b>Connect with me</b></summary><br>
-
-[<img alt="Gitlab" src="https://skillicons.dev/icons?i=gitlab"/>](https://gitlab.com/waldirborbajr)
-[<img alt="Github" src="https://skillicons.dev/icons?i=github"/>](https://github.com/waldirborbajr)
-[<img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/>](https://www.linkedin.com/in/waldirborbajr/)
-[<img alt="Instagram" src="https://skillicons.dev/icons?i=instagram"/>](https://instagram.com/waldirborbajr)
-[<img alt="Twitter" src="https://skillicons.dev/icons?i=twitter"/>](https://twitter.com/waldirborbajr)
-</details>
-  
-<details>
-  <summary><b>Metrics</b></summary><br>
-
-[<img alt="Metrics" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png" width="50" height="50"/>](https://github.com/lowlighter/metrics)
-</details>
-
-<details>
-  <summary><b>💖 Support the Project</b></summary><br>
-
-Thank you so much already for using my projects! If you want to go a step further and support my open source work, buy me a coffee:
-
-<div>
-  <a href="https://ko-fi.com/waldirborbajunior">
-    <img align="center" height="49px" src="https://cdn.ko-fi.com/cdn/kofi1.png?v=3" />
-  </a>
-  <a href="https://www.buymeacoffee.com/waldirborbajr">
-    <img align="center" height="49px" src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg" />
-  </a>
-</div>
-To support the project directly, feel free to open issues, or contribute with a pull request!
-</details>
