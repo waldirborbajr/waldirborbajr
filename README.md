@@ -8,7 +8,7 @@ I love open-source, and building cool products. When not programming I geek out 
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [wborbajr at gmail dot com](mailto:wborbajr at gmail dot com)
-* 🧠  I'm learning Rust
+* 🧠  I'm currently really into Rust, so expect a lot of mini projects on that
 * 🤝  I'm open to collaborating on GO and Rust projects
 
 <a href="https://www.twitch.tv/waldirborbajr" target="_blank" rel="noreferrer"><img
