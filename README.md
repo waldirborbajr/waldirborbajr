@@ -34,8 +34,6 @@ src="https://img.shields.io/twitch/status/waldirborbajr?logo=twitchsx&style=for-
 
 <a href="http://www.github.com/waldirborbajr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=waldirborbajr&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/waldirborbajr"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waldirborbajr&layout=compact&bg_color=0f172a&exclude_repo=SoundGate_Chirp" /></a>
-
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
