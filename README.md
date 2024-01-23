@@ -1,21 +1,36 @@
-Hi 👋 My name is Waldir Borba Junior
-====================================
+Hi there! 👋
 
-Backend En·gi·neer
-------------------
+I'm [Waldir](https://www.linkedin.com/in/waldirborbajr/), a passionate Software Engineer who loves building great products.
 
-I love open-source, and building cool products. When not programming I geek out on baking bread, photography, and dog lover.
+I consider myself a [Generalizing Specialist](http://agilemodeling.com/essays/generalizingSpecialists.htm),
+with significant experience in **NO-Code / Low-Code development** and **System Programming**.
 
-* 🌍  I'm based in Brazil
-* ✉️  You can contact me at [wborbajr at gmail dot com](mailto:wborbajr at gmail dot com)
-* 🧠  I'm currently really into Rust, so expect a lot of mini projects on that
-* 🤝  I'm open to collaborating on GO and Rust projects
+I’m **product-oriented**. Despite loving the technical side, I also deeply care about user experiences and design.
+
+I love creating **side-projects**. 
+
+* [GitPushUp](https://github.com/waldirborbajr/gitpushup) 
+* [GitRelease](https://github.com/waldirborbajr/gitrelease)
+* [KVStoK](https://github.com/waldirborbajr/kvstok)
+* [NGTools](https://github.com/waldirborbajr/ngtools)
+* [SRM](https://github.com/waldirborbajr/srm)
+
+More about me:
+
+* I love open-source, and building cool products. When not programming I geek out on baking bread, photography, and dog lover.
+
+* I'm based in Brazil
+
+* You can contact me at [wborbajr at gmail dot com](mailto:wborbajr at gmail dot com)
+
+* I'm currently really into Rust, so expect a lot of mini projects on that
+
+* I'm open to collaborating on GO and Rust projects
 
 <a href="https://www.twitch.tv/waldirborbajr" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/waldirborbajr?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=0f172a&label=TWITCH+STATUS" /></a>
 
 ### Skills
-
 
 <p align="left">
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
