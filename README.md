@@ -9,12 +9,12 @@ I’m **product-oriented**. Despite loving the technical side, I also deeply car
 
 I love creating **side-projects**. 
 
-* [glink](https://github.com/waldirborbajr/glink)
-* [GitPushUp](https://github.com/waldirborbajr/gitpushup) 
-* [GitRelease](https://github.com/waldirborbajr/gitrelease)
-* [KVStoK](https://github.com/waldirborbajr/kvstok)
-* [NGTools](https://github.com/waldirborbajr/ngtools)
-* [SRM](https://github.com/waldirborbajr/srm)
+* [glink](https://github.com/waldirborbajr/glink) - a.k.a GOlang Symbolic Link (symlink), is an open-source software built-in with the main aim of being a personal alternative to GNU Stow.
+* [GitPushUp](https://github.com/waldirborbajr/gitpushup) - A simple command line tool written in Rust programming language. It automates the process of adding all files, committing changes, and pushing them to the remote repository.
+* [GitRelease](https://github.com/waldirborbajr/gitrelease) - A simple command line tool written in Rust programming language. It automates the process of generating new releases.
+* [KVStoK](https://github.com/waldirborbajr/kvstok) - KVStoK is an open-source software built-in with the main aim of being a personal [KEY][VALUE] store, to keep system variables as parameters or passwords or anything else stored in a single place.
+* [NGTools](https://github.com/waldirborbajr/ngtools) - NGTools is a CLI (Command Line Interface), that wraps NGrok to start and stop and returns HTTPS.
+* [SRM](https://github.com/waldirborbajr/srm) - srm is a command-line Safe ReMove file, that allows recovery if necessary.
 
 More about me:
 
