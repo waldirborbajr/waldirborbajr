@@ -9,6 +9,7 @@ I’m **product-oriented**. Despite loving the technical side, I also deeply car
 
 I love creating **side-projects**. 
 
+* [bombot](https://github.com/waldirborbajr/bombot) - a.k.a GOlang Telegram Bot Just for Fun (symlink), is an open-source Telegram Bot, that runs as channel bot or individual one.
 * [glink](https://github.com/waldirborbajr/glink) - a.k.a GOlang Symbolic Link (symlink), is an open-source software built-in with the main aim of being a personal alternative to GNU Stow.
 * [GitPushUp](https://github.com/waldirborbajr/gitpushup) - A simple command line tool written in Rust programming language. It automates the process of adding all files, committing changes, and pushing them to the remote repository.
 * [GitRelease](https://github.com/waldirborbajr/gitrelease) - A simple command line tool written in Rust programming language. It automates the process of generating new releases.
