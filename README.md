@@ -16,6 +16,7 @@ I love creating **side-projects**.
 * [KVStoK](https://github.com/waldirborbajr/kvstok) - KVStoK is an open-source software built-in with the main aim of being a personal [KEY][VALUE] store, to keep system variables as parameters or passwords or anything else stored in a single place.
 * [NGTools](https://github.com/waldirborbajr/ngtools) - NGTools is a CLI (Command Line Interface), that wraps NGrok to start and stop and returns HTTPS.
 * [SRM](https://github.com/waldirborbajr/srm) - srm is a command-line Safe ReMove file, that allows recovery if necessary.
+* [NFeLoader](https://github.com/waldirborbajr/nfeloader) - NF-e Loader {Load XML NF-e file to database}.
 
 More about me:
 
