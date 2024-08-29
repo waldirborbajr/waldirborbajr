@@ -26,9 +26,9 @@ More about me:
 
 * You can contact me at [wborbajr at gmail dot com](mailto:wborbajr at gmail dot com)
 
-* I'm currently really into Rust, so expect a lot of mini projects on that
+* I'm currently really into Rust, so expect a lot of mini projects on that or not :) and working hard into N8N <3
 
-* I'm open to collaborating on GO and Rust projects
+* I'm open to collaborating on GO, N8N, and maybe Rust projects
 
 <a href="https://www.twitch.tv/waldirborbajr" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/waldirborbajr?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=0f172a&label=TWITCH+STATUS" /></a>
