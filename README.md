@@ -9,7 +9,7 @@ I’m **product-oriented**. Despite loving the technical side, I also deeply car
 
 I love creating **side-projects**. 
 
-* [tmux-docker](https://github.com/waldirborbajr/tmux-spotify) - This CLI application displays the currently playing music from Spotify on your tmux status bar.
+* [tmux-spotify](https://github.com/waldirborbajr/tmux-spotify) - This CLI application displays the currently playing music from Spotify on your tmux status bar.
 * [tmux-docker](https://github.com/waldirborbajr/tmux-docker) - This Go application monitors Docker containers on a remote server and displays their status in the Tmux status bar.
 * [tmux-wax](https://github.com/waldirborbajr/tmux-wax) - A tmux plugin that displays a random number in your status bar, written in Rust. PS: Just for fun and to learn how to create Tmux plugins.
 * [bombot](https://github.com/waldirborbajr/bombot) - a.k.a GOlang Telegram Bot Just for Fun (symlink), is an open-source Telegram Bot, that runs as channel bot or individual one.
