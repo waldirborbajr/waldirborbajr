@@ -9,7 +9,7 @@ I’m **product-oriented**. Despite loving the technical side, I also deeply car
 
 I love creating **side-projects**. 
 
-* [tmux-docker](https://github.com/waldirborbajr/tmux-docker) - This project is a CLI tool written in Go that connects to a remote server via SSH, retrieves Docker container information, and displays the results in the tmux status bar.
+* [tmux-docker](https://github.com/waldirborbajr/tmux-docker) - This Go application monitors Docker containers on a remote server and displays their status in the Tmux status bar.
 * [tmux-wax](https://github.com/waldirborbajr/tmux-wax) - A tmux plugin that displays a random number in your status bar, written in Rust. PS: Just for fun and to learn how to create Tmux plugins.
 * [bombot](https://github.com/waldirborbajr/bombot) - a.k.a GOlang Telegram Bot Just for Fun (symlink), is an open-source Telegram Bot, that runs as channel bot or individual one.
 * [glink](https://github.com/waldirborbajr/glink) - a.k.a GOlang Symbolic Link (symlink), is an open-source software built-in with the main aim of being a personal alternative to GNU Stow.
