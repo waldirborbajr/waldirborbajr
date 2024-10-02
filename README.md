@@ -9,6 +9,7 @@ I’m **product-oriented**. Despite loving the technical side, I also deeply car
 
 I love creating **side-projects**. 
 
+* [tmux-monitor](https://github.com/waldirborbajr/tmux-monitor) - A Tmux plugin to monitor Docker containers running on a remote server.
 * [tmux-spotify](https://github.com/waldirborbajr/tmux-spotify) - This CLI application displays the currently playing music from Spotify on your tmux status bar.
 * [tmux-docker](https://github.com/waldirborbajr/tmux-docker) - This Go application monitors Docker containers on a remote server and displays their status in the Tmux status bar.
 * [tmux-wax](https://github.com/waldirborbajr/tmux-wax) - Rust CLI application that connects to a remote server using SSH and retrieves Docker container statistics. It can display the results in a TMUX status bar or at the command prompt.
