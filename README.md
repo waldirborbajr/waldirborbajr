@@ -9,19 +9,19 @@ I’m **product-oriented**. Despite loving the technical side, I also deeply car
 
 I love creating **side-projects**. 
 
-* [tmux-monitor](https://github.com/waldirborbajr/tmux-monitor) - A Tmux plugin to monitor Docker containers running on a remote server.
-* [tmux-spotify](https://github.com/waldirborbajr/tmux-spotify) - This CLI application displays the currently playing music from Spotify on your tmux status bar.
-* [tmux-docker](https://github.com/waldirborbajr/tmux-docker) - This Go application monitors Docker containers on a remote server and displays their status in the Tmux status bar.
-* [tmux-wax](https://github.com/waldirborbajr/tmux-wax) - Rust CLI application that connects to a remote server using SSH and retrieves Docker container statistics. It can display the results in a TMUX status bar or at the command prompt.
-* [brightmindbot](https://github.com/waldirborbajr/brightmindbot) - Telegram Bot that on day in the future I´ll be integrated with LLM.
-* [bombot](https://github.com/waldirborbajr/bombot) - a.k.a GOlang Telegram Bot Just for Fun (symlink), is an open-source Telegram Bot, that runs as channel bot or individual one.
-* [glink](https://github.com/waldirborbajr/glink) - a.k.a GOlang Symbolic Link (symlink), is an open-source software built-in with the main aim of being a personal alternative to GNU Stow.
-* [GitPushUp](https://github.com/waldirborbajr/gitpushup) - A simple command line tool written in Rust programming language. It automates the process of adding all files, committing changes, and pushing them to the remote repository.
-* [GitRelease](https://github.com/waldirborbajr/gitrelease) - A simple command line tool written in Rust programming language. It automates the process of generating new releases.
-* [KVStoK](https://github.com/waldirborbajr/kvstok) - KVStoK is an open-source software built-in with the main aim of being a personal [KEY][VALUE] store, to keep system variables as parameters or passwords or anything else stored in a single place.
-* [NGTools](https://github.com/waldirborbajr/ngtools) - NGTools is a CLI (Command Line Interface), that wraps NGrok to start and stop and returns HTTPS.
-* [SRM](https://github.com/waldirborbajr/srm) - srm is a command-line Safe ReMove file, that allows recovery if necessary.
-* [NFeLoader](https://github.com/waldirborbajr/nfeloader) - NF-e Loader {Load XML NF-e file to database}.
+* 🐹 [tmux-monitor](https://github.com/waldirborbajr/tmux-monitor) - A Tmux plugin to monitor Docker containers running on a remote server.
+* 🐹 [tmux-spotify](https://github.com/waldirborbajr/tmux-spotify) - This CLI application displays the currently playing music from Spotify on your tmux status bar.
+* 🐹 [tmux-docker](https://github.com/waldirborbajr/tmux-docker) - This Go application monitors Docker containers on a remote server and displays their status in the Tmux status bar.
+* 🦀 [tmux-wax](https://github.com/waldirborbajr/tmux-wax) - Rust CLI application that connects to a remote server using SSH and retrieves Docker container statistics. It can display the results in a TMUX status bar or at the command prompt.
+* 🐹 [brightmindbot](https://github.com/waldirborbajr/brightmindbot) - Telegram Bot that on day in the future I´ll be integrated with LLM.
+* 🐹 [bombot](https://github.com/waldirborbajr/bombot) - a.k.a GOlang Telegram Bot Just for Fun (symlink), is an open-source Telegram Bot, that runs as channel bot or individual one.
+* 🐹 [glink](https://github.com/waldirborbajr/glink) - a.k.a GOlang Symbolic Link (symlink), is an open-source software built-in with the main aim of being a personal alternative to GNU Stow.
+* 🦀 [GitPushUp](https://github.com/waldirborbajr/gitpushup) - A simple command line tool written in Rust programming language. It automates the process of adding all files, committing changes, and pushing them to the remote repository.
+* 🦀 [GitRelease](https://github.com/waldirborbajr/gitrelease) - A simple command line tool written in Rust programming language. It automates the process of generating new releases.
+* 🐹 [KVStoK](https://github.com/waldirborbajr/kvstok) - KVStoK is an open-source software built-in with the main aim of being a personal [KEY][VALUE] store, to keep system variables as parameters or passwords or anything else stored in a single place.
+* 🐹 [NGTools](https://github.com/waldirborbajr/ngtools) - NGTools is a CLI (Command Line Interface), that wraps NGrok to start and stop and returns HTTPS.
+* 🐹 [SRM](https://github.com/waldirborbajr/srm) - srm is a command-line Safe ReMove file, that allows recovery if necessary.
+* 🐹 [NFeLoader](https://github.com/waldirborbajr/nfeloader) - NF-e Loader {Load XML NF-e file to database}.
 
 More about me:
 
