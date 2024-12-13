@@ -5,7 +5,7 @@ I'm [Waldir](https://www.linkedin.com/in/waldirborbajr/), a passionate Software 
 I consider myself a [Generalizing Specialist](http://agilemodeling.com/essays/generalizingSpecialists.htm),
 with significant experience in **NO-Code / Low-Code development** and **System Programming**.
 
-I’m interested in [Go](https://go.dev/), [Rust](https://www.rust-lang.org/), [AI/ML](https://en.wikipedia.org/wiki/Artificial_intelligence), [Blockchain](https://en.wikipedia.org/wiki/Blockchain) and anything computer related.
+I’m interested in [Go](https://go.dev/), [Rust](https://www.rust-lang.org/), [AI/ML](https://en.wikipedia.org/wiki/Artificial_intelligence), [Blockchain](https://en.wikipedia.org/wiki/Blockchain) [N8N](https://n8n.io/) and anything computer related.
 
 I’m **product-oriented**. Despite loving the technical side, I also deeply care about user experiences and design.
 
@@ -32,10 +32,6 @@ More about me:
 * I'm based in Brazil
 
 * You can contact me at [wborbajr at gmail dot com](mailto:wborbajr at gmail dot com)
-
-* I'm currently really into Rust, so expect a lot of mini projects on that or not :) and working hard into N8N <3
-
-* I'm open to collaborating on GO, N8N, and maybe Rust projects
 
 <a href="https://www.twitch.tv/waldirborbajr" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/waldirborbajr?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=0f172a&label=TWITCH+STATUS" /></a>
