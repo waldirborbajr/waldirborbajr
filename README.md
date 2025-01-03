@@ -5,7 +5,7 @@ I'm [Waldir](https://www.linkedin.com/in/waldirborbajr/), a passionate Software 
 I consider myself a [Generalizing Specialist](http://agilemodeling.com/essays/generalizingSpecialists.htm),
 with significant experience in **NO-Code / Low-Code development** and **System Programming**.
 
-I’m interested in [Go](https://go.dev/), [Rust](https://www.rust-lang.org/), [AI/ML](https://en.wikipedia.org/wiki/Artificial_intelligence), [Blockchain](https://en.wikipedia.org/wiki/Blockchain) and [N8N](https://n8n.io/) and anything computer related.
+I’m interested in [Go](https://go.dev/), [Rust](https://www.rust-lang.org/), [AI/ML](https://en.wikipedia.org/wiki/Artificial_intelligence), [Blockchain](https://en.wikipedia.org/wiki/Blockchain), [N8N](https://n8n.io/) and anything computer related.
 
 I’m **product-oriented**. Despite loving the technical side, I also deeply care about user experiences and design.
 
