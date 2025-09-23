@@ -11,6 +11,7 @@ I’m **product-oriented**. Despite loving the technical side, I also deeply car
 
 I love creating **side-projects**. 
 
+* 🐹 [sync](https://github.com/waldirborbajr/sync) - syncronization betwen Firebird and Mysql, coded by the first time with pair review of AI.
 * 🐹 [tmux-monitor](https://github.com/waldirborbajr/tmux-monitor) - A Tmux plugin to monitor Docker containers running on a remote server.
 * 🐹 [tmux-spotify](https://github.com/waldirborbajr/tmux-spotify) - This CLI application displays the currently playing music from Spotify on your tmux status bar.
 * 🐹 [tmux-docker](https://github.com/waldirborbajr/tmux-docker) - This Go application monitors Docker containers on a remote server and displays their status in the Tmux status bar.
