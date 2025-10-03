@@ -48,14 +48,6 @@ src="https://img.shields.io/twitch/status/waldirborbajr?logo=twitchsx&style=for-
 
 <p align="left"> <a href="https://www.dev.to/waldirborbajr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/waldirborbajr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/waldirborbajr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/waldirborbajr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/waldirborbajr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/waldirborbajr"><img src="https://github-readme-stats.vercel.app/api?username=waldirborbajr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="waldirborbajr's GitHub stats" /></a>
-
-<a href="http://www.github.com/waldirborbajr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=waldirborbajr&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
@@ -66,8 +58,6 @@ src="https://img.shields.io/twitch/status/waldirborbajr?logo=twitchsx&style=for-
 
 </ul>
 
-### Holopin & Trophy
+### Holopin
 
-[![@waldirborbajr's Holopin board](https://holopin.io/api/user/board?user=waldirborbajr)](https://holopin.io/@waldirborbajr)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=waldirborbajr)](https://github.com/ryo-ma/github-profile-trophy)
+[![An image of @waldirborbajr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/waldirborbajr)](https://holopin.io/@waldirborbajr)
