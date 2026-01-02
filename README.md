@@ -1,11 +1,9 @@
-Hi there! 👋
+### Greetings! 👋
 
-I'm [Waldir](https://www.linkedin.com/in/waldirborbajr/), a passionate Software Engineer who loves building great products.
+I’m interested in [**FOSS**](https://osssoftware.org/blog/free-and-open-source-software-foss-core-principles/), [**Go**](https://go.dev/), [**Rust**](https://www.rust-lang.org/), [**AI/ML**](https://en.wikipedia.org/wiki/Artificial_intelligence), [**Blockchain**](https://en.wikipedia.org/wiki/Blockchain), [**N8N**](https://n8n.io/) and anything computer related.
 
-I consider myself a [Generalizing Specialist](http://agilemodeling.com/essays/generalizingSpecialists.htm),
-with significant experience in **NO-Code / Low-Code development** and **System Programming**.
-
-I’m interested in [Go](https://go.dev/), [Rust](https://www.rust-lang.org/), [AI/ML](https://en.wikipedia.org/wiki/Artificial_intelligence), [Blockchain](https://en.wikipedia.org/wiki/Blockchain), [N8N](https://n8n.io/) and anything computer related.
+I consider myself a [**Generalizing Specialist**](http://agilemodeling.com/essays/generalizingSpecialists.htm),
+with significant experience in **System Programming**.
 
 I’m **product-oriented**. Despite loving the technical side, I also deeply care about user experiences and design.
 
