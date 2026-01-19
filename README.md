@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Waldir Borba Jr.
 
-## 👋 Hi, I'm Waldir Borba Jr.
-
 I'm a **product-oriented Software Engineer** with a strong focus on **Open Source Software (OSS/FOSS)**, **system programming**, and **developer tooling**.
 
 I’m interested in  
