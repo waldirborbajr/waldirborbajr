@@ -7,6 +7,11 @@ with significant experience in **System Programming**.
 
 I’m **product-oriented**. Despite loving the technical side, I also deeply care about user experiences and design.
 
+My Setup
+
+[NixOS](https://github.com/waldirborbajr/nixos-config) - My Dell & Macbook Configuration
+[dotfiles](https://github.com/waldirborbajr/dotfiles) - My dotfiles forever
+
 I love creating **side-projects**. 
 
 * 🐹 [sync](https://github.com/waldirborbajr/sync) - syncronization betwen Firebird and Mysql, coded by the first time with pair review of AI.
