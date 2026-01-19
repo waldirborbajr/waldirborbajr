@@ -35,7 +35,7 @@ Although I love the technical side, I strongly believe that **great software is 
 ## 🖥️ Development Environment
 
 - **[NixOS Configuration](https://github.com/waldirborbajr/nixos-config)**  
-  Reproducible system setup for Dell and MacBook using NixOS and flakes.
+  Reproducible system setup for Dell and MacBook using NixOS.
 
 - **[Dotfiles](https://github.com/waldirborbajr/dotfiles)**  
   Personal dotfiles, continuously evolving and fully reproducible.
