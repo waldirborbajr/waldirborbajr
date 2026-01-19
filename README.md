@@ -1,10 +1,23 @@
 # 👋 Hi, I'm Waldir Borba Jr.
 
+## 👋 Hi, I'm Waldir Borba Jr.
+
 I'm a **product-oriented Software Engineer** with a strong focus on **Open Source Software (OSS/FOSS)**, **system programming**, and **developer tooling**.
 
-I work primarily with **Go** and **Rust**, building reliable, efficient, and maintainable software — especially **CLI tools**, **automation**, and **infrastructure-adjacent systems**. I enjoy working close to the operating system while keeping a strong concern for **developer experience (DX)** and **product quality**.
+I’m interested in  
 
-I consider myself a **[Generalizing Specialist](http://agilemodeling.com/essays/generalizingSpecialists.htm)**: someone who goes deep into technical details when needed, but maintains a broad understanding of systems, products, and users.
+- [**FOSS**](https://osssoftware.org/blog/free-and-open-source-software-foss-core-principles/)
+- [**Go**](https://go.dev/)
+- [**Rust**](https://www.rust-lang.org/)
+- [**AI / ML**](https://en.wikipedia.org/wiki/Artificial_intelligence)
+- [**Blockchain**](https://en.wikipedia.org/wiki/Blockchain)
+- [**n8n**](https://n8n.io/)
+- Anything computer-related
+I consider myself a **[Generalizing Specialist](http://agilemodeling.com/essays/generalizingSpecialists.htm)** — someone who goes deep when necessary, but keeps a broad understanding of systems, products, and users.
+
+I have solid experience in **system programming**, **CLI tools**, **automation**, and **backend services**.
+
+Although I love the technical side, I strongly believe that **great software is a balance between engineering, usability, and product thinking**.
 
 ---
 
