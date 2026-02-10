@@ -18,6 +18,7 @@ jobs:
         with:
           filename: header.svg
           # You'll need to setup a personal token in your secrets.
+          # For public-only data: scopes `public_repo` and `read:user` are sufficient.
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
           # committer_token: ${{ secrets.GITHUB_TOKEN }}
@@ -61,6 +62,7 @@ jobs:
         with:
           filename: acti_comm.svg
           # You'll need to setup a personal token in your secrets.
+          # For public-only data: scopes `public_repo` and `read:user` are sufficient.
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
           # committer_token: ${{ secrets.GITHUB_TOKEN }}
@@ -78,6 +80,7 @@ jobs:
         with:
           filename: iso_calender.svg
           # You'll need to setup a personal token in your secrets.
+          # For public-only data: scopes `public_repo` and `read:user` are sufficient.
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
           # committer_token: ${{ secrets.GITHUB_TOKEN }}
@@ -115,6 +118,7 @@ jobs:
         with:
           filename: issue_pr_lang.svg
           # You'll need to setup a personal token in your secrets.
+          # For public-only data: scopes `public_repo` and `read:user` are sufficient.
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
           # committer_token: ${{ secrets.GITHUB_TOKEN }}
