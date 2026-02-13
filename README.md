@@ -8,6 +8,7 @@ I’m interested in
 - [**Go**](https://go.dev/)
 - [**Rust**](https://www.rust-lang.org/)
 - [**AI / ML**](https://en.wikipedia.org/wiki/Artificial_intelligence)
+- [**Docker**](https://www.docker.com/)
 - [**Blockchain**](https://en.wikipedia.org/wiki/Blockchain)
 - [**n8n**](https://n8n.io/)
 - Anything computer-related
