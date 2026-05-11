@@ -62,8 +62,17 @@ Below is a curated selection of my open-source projects, focused on **developer 
 
 ### 🐹 Go Projects
 
-- **[sync](https://github.com/waldirborbajr/sync)**  
-  Data synchronization tool between Firebird and MySQL databases. Built with AI-assisted pair review.
+- **[KVStoK](https://github.com/waldirborbajr/kvstok)**  
+  A lightweight key–value store for environment variables, secrets, and system parameters.
+
+- **[glink](https://github.com/waldirborbajr/glink)**  
+  A personal alternative to GNU Stow, written in Go, for managing symbolic links.
+
+- **[NGTools](https://github.com/waldirborbajr/ngtools)**  
+  CLI wrapper around ngrok to easily manage HTTPS tunnels.
+
+- **[SRM](https://github.com/waldirborbajr/srm)**  
+  Safe Remove CLI tool that allows file recovery after deletion.
 
 - **[tmux-monitor](https://github.com/waldirborbajr/tmux-monitor)**  
   tmux plugin to monitor Docker containers running on remote servers.
@@ -74,17 +83,8 @@ Below is a curated selection of my open-source projects, focused on **developer 
 - **[tmux-spotify](https://github.com/waldirborbajr/tmux-spotify)**  
   Displays the currently playing Spotify track directly in the tmux status bar.
 
-- **[glink](https://github.com/waldirborbajr/glink)**  
-  A personal alternative to GNU Stow, written in Go, for managing symbolic links.
-
-- **[KVStoK](https://github.com/waldirborbajr/kvstok)**  
-  A lightweight key–value store for environment variables, secrets, and system parameters.
-
-- **[NGTools](https://github.com/waldirborbajr/ngtools)**  
-  CLI wrapper around ngrok to easily manage HTTPS tunnels.
-
-- **[SRM](https://github.com/waldirborbajr/srm)**  
-  Safe Remove CLI tool that allows file recovery after deletion.
+- **[sync](https://github.com/waldirborbajr/sync)**  
+  Data synchronization tool between Firebird and MySQL databases. Built with AI-assisted pair review.
 
 - **[NFeLoader](https://github.com/waldirborbajr/nfeloader)**  
   Tool for loading Brazilian NF-e XML files into relational databases.
