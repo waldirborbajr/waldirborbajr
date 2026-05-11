@@ -49,14 +49,14 @@ Below is a curated selection of my open-source projects, focused on **developer 
 
 ### 🦀 Rust Projects
 
-- **[tmux-wax](https://github.com/waldirborbajr/tmux-wax)**  
-  Rust CLI that connects to a remote server via SSH to collect Docker container statistics and display them in tmux or the terminal.
-
 - **[GitPushUp](https://github.com/waldirborbajr/gitpushup)**  
   Lightweight CLI tool that automates `git add`, `commit`, and `push` workflows.
 
 - **[GitRelease](https://github.com/waldirborbajr/gitrelease)**  
   CLI tool to automate semantic versioning and release generation.
+
+- **[tmux-wax](https://github.com/waldirborbajr/tmux-wax)**  
+  Rust CLI that connects to a remote server via SSH to collect Docker container statistics and display them in tmux or the terminal.
 
 ---
 
