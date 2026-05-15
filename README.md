@@ -49,6 +49,9 @@ Below is a curated selection of my open-source projects, focused on **developer 
 
 ### 🦀 Rust Projects
 
+- **[ruslink](https://github.com/waldirborbajr/ruslink)**  
+  A lightweight, production-ready Rust-based stow utility for managing dotfiles and package-style deployments with advanced features like merge mode, git integration, and intelligent conflict resolution.
+
 - **[GitPushUp](https://github.com/waldirborbajr/gitpushup)**  
   Lightweight CLI tool that automates `git add`, `commit`, and `push` workflows.
 
