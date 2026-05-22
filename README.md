@@ -1,28 +1,31 @@
-# 👋 Hi, I'm BORBA JR, W
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Hari-Krishna-Moorthy/Hari-Krishna-Moorthy/main/giphy.gif" width="29px">, I'm BORBA JR, W (PU5MHL)</h1>
+<h3 align="center">product-oriented Software Engineer • Open Source Software (OSS/FOSS) • Systems Enthusiast</h3>
+<br><br>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-I'm a **product-oriented Software Engineer** with a strong focus on **Open Source Software (OSS/FOSS)**, **system programming**, and **developer tooling**.
+### 🚀 About Me
 
-I’m interested in  
+- 🇧🇷 Based in Brazil  
+- 🛠️ Active open-source contributor and maintainer
+- 🐧 Daily Linux user (Fedora / NixOS)
+- 💻 Strong in **Python**, **Java**, **C++** and backend systems
+- 🧠 Interested in Distributed Systems and Developer Tooling
+- 🤖 Exploring Generative AI & LLM-powered applications
+- ⚡ tmux - zellij + neovim - hellix (btw)
+- 🍞 When not coding: baking bread, photography, and dog lover  
+- 📧 Reach me at **wborbajr@gmail.com**
 
-- [**FOSS**](https://osssoftware.org/blog/free-and-open-source-software-foss-core-principles/)
-- [**Go**](https://go.dev/)
-- [**Rust**](https://www.rust-lang.org/)
-- [**AI / ML**](https://en.wikipedia.org/wiki/Artificial_intelligence)
-- [**Docker**](https://www.docker.com/)
-- [**Blockchain**](https://en.wikipedia.org/wiki/Blockchain)
-- [**n8n**](https://n8n.io/)
 - Anything computer-related
-I consider myself a **[Generalizing Specialist](http://agilemodeling.com/essays/generalizingSpecialists.htm)** — someone who goes deep when necessary, but keeps a broad understanding of systems, products, and users.
 
-I have solid experience in **system programming**, **CLI tools**, **automation**, and **backend services**.
+I consider myself a **[Generalizing Specialist](http://agilemodeling.com/essays/generalizingSpecialists.htm)** — someone who goes deep when necessary, but keeps a broad understanding of systems, products, and users.
 
 Although I love the technical side, I strongly believe that **great software is a balance between engineering, usability, and product thinking**.
 
 ---
 
-## 🧭 Core Interests
+### 🧭 Core Interests
 
-- **Open Source & FOSS**
+- **Open Source & [FOSS](https://osssoftware.org/blog/free-and-open-source-software-foss-core-principles/)**
 - **System Programming**
 - **Go & Rust**
 - **CLI tools & automation**
@@ -33,7 +36,7 @@ Although I love the technical side, I strongly believe that **great software is 
 
 ---
 
-## 🖥️ Development Environment
+### 🖥️ Development Environment
 
 - **[NixOS Configuration](https://github.com/waldirborbajr/nixos-config)**  
   Reproducible system setup for Dell and MacBook using NixOS.
@@ -113,15 +116,6 @@ Below is a curated selection of my open-source projects, focused on **developer 
 
 ---
 
-## 📍 About Me
-
-- 🇧🇷 Based in Brazil  
-- ❤️ Open-source enthusiast  
-- 🍞 When not coding: baking bread, photography, and dog lover  
-- 📫 Contact: **[wborbajr at gmail dot com](mailto:wborbajr at gmail dot com)**  
-
----
-
 ## 🌐 Social & Community
 
 - 💻 GitHub: https://github.com/waldirborbajr  
@@ -143,4 +137,4 @@ If you enjoy my work or find it useful:
 
 ## 🏅 Holopin
 
-[![Holopin badges](https://holopin.me/waldirborbajr)](https://holopin.io/@waldirborbajr)
+[![An image of @waldirborbajr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/waldirborbajr)](https://holopin.io/@waldirborbajr)
