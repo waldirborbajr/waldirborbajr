@@ -137,4 +137,4 @@ If you enjoy my work or find it useful:
 
 ## 🏅 Holopin
 
-[![An image of @waldirborbajr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/waldirborbajr)](https://holopin.io/@waldirborbajr)
+[![@Borba's Holopin board](https://holopin.me/waldirborbajr)](https://holopin.io/@waldirborbajr)
