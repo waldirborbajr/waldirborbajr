@@ -8,7 +8,7 @@
 - 🇧🇷 Based in Brazil  
 - 🛠️ Active open-source contributor and maintainer
 - 🐧 Daily Linux user (Fedora / NixOS)
-- 💻 Strong in **Python**, **Java**, **C++** and backend systems
+- 💻 Strong in **GO**, **Python**, **Rust (learning)** and backend systems
 - 🧠 Interested in Distributed Systems and Developer Tooling
 - 🤖 Exploring Generative AI & LLM-powered applications
 - ⚡ tmux - zellij + neovim - hellix (btw)
