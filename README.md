@@ -68,6 +68,9 @@ Below is a curated selection of my open-source projects, focused on **developer 
 
 ### 🐹 Go Projects
 
+- **[tms](https://github.com/waldirborbajr/tms)**  
+  A simple and lightweight Tmux Session Manager made for personal use and experimentation
+
 - **[KVStoK](https://github.com/waldirborbajr/kvstok)**  
   A lightweight key–value store for environment variables, secrets, and system parameters.
 
