@@ -71,6 +71,15 @@ Below is a curated selection of my open-source projects, focused on **developer 
 - **[tms](https://github.com/waldirborbajr/tms)**  
   A simple and lightweight Tmux Session Manager made for personal use and experimentation
 
+- **[govote](https://github.com/waldirborbajr/govote)**  
+  Single-file REST API for secure voting with WhatsApp authentication (PoC).
+  
+- **[sync](https://github.com/waldirborbajr/sync)**  
+  Sync Firebird to MySQL
+  
+- **[p2pshare](https://github.com/waldirborbajr/p2pshare)**  
+  P2P file transfer over a direct TCP connection. No broker, no relay, no stored keys. 
+  
 - **[KVStoK](https://github.com/waldirborbajr/kvstok)**  
   A lightweight key–value store for environment variables, secrets, and system parameters.
 
