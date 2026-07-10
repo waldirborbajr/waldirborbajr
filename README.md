@@ -68,6 +68,9 @@ Below is a curated selection of my open-source projects, focused on **developer 
 
 ### 🐹 Go Projects
 
+- **[nixosmanager](https://github.com/waldirborbajr/nixosmanager)**  
+  Go-based NixOS manager with a Bubble Tea TUI and Kong CLI parsing.
+  
 - **[tms](https://github.com/waldirborbajr/tms)**  
   A simple and lightweight Tmux Session Manager made for personal use and experimentation
 
