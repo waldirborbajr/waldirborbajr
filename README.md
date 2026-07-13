@@ -68,6 +68,9 @@ Below is a curated selection of my open-source projects, focused on **developer 
 
 ### 🐹 Go Projects
 
+- **[termuxcam](https://github.com/waldirborbajr/termuxcam)**  
+  Periodic front-camera capture on Android, running natively in Termux.
+  
 - **[nixosmanager](https://github.com/waldirborbajr/nixosmanager)**  
   Go-based NixOS manager with a Bubble Tea TUI and Kong CLI parsing.
   
