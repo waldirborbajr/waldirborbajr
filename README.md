@@ -64,6 +64,9 @@ Below is a curated selection of my open-source projects, focused on **developer 
 - **[tmux-wax](https://github.com/waldirborbajr/tmux-wax)**  
   Rust CLI that connects to a remote server via SSH to collect Docker container statistics and display them in tmux or the terminal.
 
+- **[bplang](https://github.com/waldirborbajr/bplang)**  
+  This project is a transpiler for a custom language called BP. The BP language is a simple, C-like language with variable declarations and print statements.
+
 ---
 
 ### 🐹 Go Projects
