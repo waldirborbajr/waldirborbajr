@@ -43,6 +43,9 @@ Although I love the technical side, I strongly believe that **great software is 
 
 - **[Dotfiles](https://github.com/waldirborbajr/dotfiles)**  
   Personal dotfiles, continuously evolving and fully reproducible.
+  
+- **[rasplab](https://github.com/waldirborbajr/rasplab)**  
+  Raspberry PI #3 - HomeLab.
 
 ---
 
