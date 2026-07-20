@@ -55,6 +55,9 @@ Below is a curated selection of my open-source projects, focused on **developer 
 
 ### 🦀 Rust Projects
 
+- **[BanHammer](https://github.com/waldirborbajr/BanHammer)**  
+  Automatic moderation bot for Telegram — detects and bans users who post not allowed content.
+
 - **[ruslink](https://github.com/waldirborbajr/ruslink)**  
   A fast, modern Rust reimplementation of GNU Stow with powerful features like intelligent merging, native Git integration.
 
