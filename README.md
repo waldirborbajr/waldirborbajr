@@ -58,7 +58,7 @@ Below is a curated selection of my open-source projects, focused on **developer 
 - **[RustPICam](https://github.com/waldirborbajr/rustpicam)**  
   Capture imagem from mobile using Raspberry Pi/3.
 
-- **[BanHammer](https://github.com/waldirborbajr/BanHammer)**  
+- **[BotHammer](https://github.com/waldirborbajr/BotHammer)**  
   Automatic moderation bot for Telegram — detects and bans users who post not allowed content.
 
 - **[ruslink](https://github.com/waldirborbajr/ruslink)**  
