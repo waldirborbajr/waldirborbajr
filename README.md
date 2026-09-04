@@ -5,14 +5,14 @@
 
 ### 🚀 About Me
 
-- 🇧🇷 Based in Brazil  
+- 🇧🇷 Based in Brazil - Speak English Learning Spanish
 - 🛠️ Active open-source contributor and maintainer
-- 🐧 Daily Linux user (Fedora / NixOS)
-- 💻 Strong in **GO**, **Python**, **Rust (learning)** and backend systems
+- 🐧 Daily Linux user (NixOS - btw)
+- 💻 Strong in **GO** btw, **Python**, **Rust (learning)** and backend systems
 - 🧠 Interested in Distributed Systems and Developer Tooling
 - 🤖 Exploring Generative AI & LLM-powered applications
-- ⚡ tmux - zellij + neovim - hellix (btw)
-- 🍞 When not coding: baking bread, photography, and dog lover  
+- ⚡  zellij (btw) - hellix (btw) - tmux - neovim
+- 🍞 When not coding: baking bread, photography, carpentry and dog lover  
 - 📧 Reach me at **wborbajr@gmail.com**
 
 - Anything computer-related
