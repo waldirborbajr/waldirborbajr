@@ -25,7 +25,7 @@ Although I love the technical side, I strongly believe that **great software is 
 
 ### 🧭 Core Interests
 
-- **Open Source & [FOSS](https://osssoftware.org/blog/free-and-open-source-software-foss-core-principles/)**
+- **[Open Source](https://opensource.org/) & [FOSS](https://osssoftware.org/blog/free-and-open-source-software-foss-core-principles/)**
 - **System Programming**
 - **Go & Rust**
 - **CLI tools & automation**
