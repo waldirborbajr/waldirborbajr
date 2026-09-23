@@ -4,11 +4,11 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waldirborbajr&theme=nord_dark" alt="summary">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waldirborbajr&theme=nord_dark" alt="summary"/>
   <br>
-  <!-- <img align="center" src="https://github-stats-extended.vercel.app/api?username=Fr4nk1inCs&theme=nord&show_icons=true&text_bold=false&title_color=eceff4&ring_color=88c0d0" alt="stats">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fr4nk1inCs&theme=nord_dark&utcOffset=8" alt="commits">
-  <br> -->
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=waldirborbajr&theme=nord_dark"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=waldirborbajr&theme=nord_dark"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=waldirborbajr&theme=nord_dark"/>
 </p>
 
 
