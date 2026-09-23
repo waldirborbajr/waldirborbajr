@@ -4,7 +4,7 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waldirborbajr&theme=nord_dark" alt="summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waldirborbajr&theme=nord_dark&name=BORBA+JR%2C+W+-+PU5MHL" alt="summary"/>
   <br>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=waldirborbajr&theme=nord_dark"/>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=waldirborbajr&theme=nord_dark"/>
