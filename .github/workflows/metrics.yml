@@ -1,8 +1,33 @@
-- uses: mjun0812/github-metrics@v5
-  with:
-    user: waldirborbajr
-    token: ${{ secrets.METRICS_TOKEN }}
-    plugin_habits: yes
+# .github/workflows/metrics.yml
+name: Metrics
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: mjun0812/github-metrics@latest
+        with:
+          user: octocat
+          token: ${{ secrets.METRICS_TOKEN }}
+          template: classic
+          combined: "yes"
+          plugin_languages: "yes"
+          plugin_languages_limit: "5"
+          committer_branch: main
+          output_action: commit
+          output_condition: data-changed
+
+      # Repository
+      - uses: mjun0812/github-metrics@latest
+        with:
+          user: ${{ github.repository_owner }}
+          repo: ${{ github.event.repository.name }}
+          template: repository
+          token: ${{ secrets.METRICS_TOKEN }}
+          combined: "yes" # the repository template renders a single combined SVG
 
 # name: Metrics
 # on:
