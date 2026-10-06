@@ -35,10 +35,13 @@ jobs:
           user: ${{ github.repository_owner }}
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_achievements: yes
+          combined: "yes"
+          committer_branch: main
+          output_action: commit
 
       # Habits
-      # - uses: mjun0812/github-metrics@v5
-      #   with:
-      #     user: ${{ github.repository_owner }}
-      #     token: ${{ secrets.METRICS_TOKEN }}
-      #     plugin_habits: yes          
+      - uses: mjun0812/github-metrics@v5
+        with:
+          user: ${{ github.repository_owner }}
+          token: ${{ secrets.METRICS_TOKEN }}
+          plugin_habits: yes          
