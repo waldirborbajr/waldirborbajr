@@ -1,47 +1,74 @@
 # .github/workflows/metrics.yml
 name: Metrics
+
 on:
-  schedule: [{ cron: "0 0 * * *" }]
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+
+# Required for committing back to the repo
+permissions:
+  contents: write
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: mjun0812/github-metrics@v5
+      # ── 1. Main profile card (classic template + languages) ──
+      - name: Generate classic metrics
+        uses: mjun0812/github-metrics@v5
         with:
-          user: octocat
+          user: ${{ github.repository_owner }}
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
-          combined: "yes"
+          combined: "yes"              # single SVG → compatible with commit
           plugin_languages: "yes"
           plugin_languages_limit: "5"
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size,percentage
           committer_branch: main
           output_action: commit
           output_condition: data-changed
 
-      # Repository
-      - uses: mjun0812/github-metrics@v5
+      # ── 2. Repository metrics (single combined SVG) ──
+      - name: Generate repository metrics
+        uses: mjun0812/github-metrics@v5
         with:
           user: ${{ github.repository_owner }}
           repo: ${{ github.event.repository.name }}
+          token: ${{ secrets.METRICS_TOKEN }}
           template: repository
-          token: ${{ secrets.METRICS_TOKEN }}
-          combined: "yes" # the repository template renders a single combined SVG
-
-      # achievements
-      - uses: mjun0812/github-metrics@v5
-        with:
-          user: ${{ github.repository_owner }}
-          token: ${{ secrets.METRICS_TOKEN }}
-          plugin_achievements: yes
           combined: "yes"
           committer_branch: main
           output_action: commit
+          output_condition: data-changed
 
-      # Habits
-      - uses: mjun0812/github-metrics@v5
+      # ── 3. Achievements ──
+      - name: Generate achievements
+        uses: mjun0812/github-metrics@v5
         with:
           user: ${{ github.repository_owner }}
           token: ${{ secrets.METRICS_TOKEN }}
-          plugin_habits: yes          
+          plugin_achievements: "yes"
+          plugin_achievements_display: detailed
+          combined: "yes"
+          committer_branch: main
+          output_action: commit
+          output_condition: data-changed
+
+      # ── 4. Habits ──
+      - name: Generate habits
+        uses: mjun0812/github-metrics@v5
+        with:
+          user: ${{ github.repository_owner }}
+          token: ${{ secrets.METRICS_TOKEN }}
+          plugin_habits: "yes"
+          plugin_habits_from: "200"
+          plugin_habits_days: "14"
+          combined: "yes"
+          committer_branch: main
+          output_action: commit
+          output_condition: data-changed
