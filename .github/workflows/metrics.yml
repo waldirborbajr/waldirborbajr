@@ -21,7 +21,7 @@ jobs:
           output_condition: data-changed
 
       # Repository
-      - uses: mjun0812/github-metrics@latv5.0.4est
+      - uses: mjun0812/github-metrics@v5.0.4
         with:
           user: ${{ github.repository_owner }}
           repo: ${{ github.event.repository.name }}
