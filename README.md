@@ -174,8 +174,7 @@ If you enjoy my work or find it useful:
 - https://ko-fi.com/waldirborbajr  
 
 ---
-<img alt="🦑" align="left" width="400px" src="[https://github.com/xun404/xun404](https://github.com/waldirborbajr/waldirborbajr)/blob/main/metrics.svg">
-<img alt="🦑" align="left" width="400px" src="https://github.com/xun404/xun404/blob/main/metrics.additional.svg">
+[https://github.com/waldirborbajr/waldirborbajr/blob/main/repositories.svg](https://github.com/waldirborbajr/waldirborbajr/blob/main/repositories.svg)
 
 ---
 
