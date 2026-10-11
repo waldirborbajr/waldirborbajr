@@ -117,17 +117,17 @@
           <text x="230" y="192" font-size="10" fill="#666666" text-anchor="middle">
             11
           </text>
-          <text x="250" y="149" font-size="6" fill="#666666" text-anchor="middle">
-            19
+          <text x="250" y="151" font-size="6" fill="#666666" text-anchor="middle">
+            18
           </text>
-          <rect x="246" y="151" width="7" height="29" rx="3" ry="3" fill="#30a14e"/>
+          <rect x="246" y="153" width="7" height="27" rx="3" ry="3" fill="#30a14e"/>
           <text x="250" y="192" font-size="10" fill="#666666" text-anchor="middle">
             12
           </text>
-          <text x="269" y="166" font-size="6" fill="#666666" text-anchor="middle">
-            8
+          <text x="269" y="164" font-size="6" fill="#666666" text-anchor="middle">
+            9
           </text>
-          <rect x="266" y="168" width="7" height="12" rx="3" ry="3" fill="#9be9a8"/>
+          <rect x="266" y="166" width="7" height="14" rx="3" ry="3" fill="#40c463"/>
           <text x="269" y="192" font-size="10" fill="#666666" text-anchor="middle">
             13
           </text>
@@ -206,17 +206,17 @@
           Commit activity per day of week
         </text>
         <g data-block="chart-bars">
-          <text x="24" y="247" font-size="6" fill="#666666" text-anchor="middle">
-            25
+          <text x="24" y="246" font-size="6" fill="#666666" text-anchor="middle">
+            26
           </text>
-          <rect x="21" y="249" width="7" height="35" rx="3" ry="3" fill="#30a14e"/>
+          <rect x="21" y="248" width="7" height="36" rx="3" ry="3" fill="#30a14e"/>
           <text x="24" y="296" font-size="10" fill="#666666" text-anchor="middle">
             Sun
           </text>
-          <text x="56" y="263" font-size="6" fill="#666666" text-anchor="middle">
-            14
+          <text x="56" y="264" font-size="6" fill="#666666" text-anchor="middle">
+            13
           </text>
-          <rect x="53" y="265" width="7" height="19" rx="3" ry="3" fill="#40c463"/>
+          <rect x="53" y="266" width="7" height="18" rx="3" ry="3" fill="#40c463"/>
           <text x="56" y="296" font-size="10" fill="#666666" text-anchor="middle">
             Mon
           </text>
