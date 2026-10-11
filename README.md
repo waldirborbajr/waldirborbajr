@@ -65,7 +65,7 @@ Below is a curated selection of my open-source projects, focused on **developer 
 
 ### 🦀 Rust Projects
 
-- **[RustPICam](https://github.com/waldirborbajr/NoIPClient)**  
+- **[NoIPClient](https://github.com/waldirborbajr/NoIPClient)**  
   A Rust client that updates a No-IP hostname with your current public IP.
 
 - **[RustPICam](https://github.com/waldirborbajr/rustpicam)**  
